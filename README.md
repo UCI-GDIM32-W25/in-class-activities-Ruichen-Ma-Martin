@@ -1,11 +1,11 @@
 # GDIM32 In Class Activities
 ## Instructions
-### week 1
-#### activity 1: 
+## week 1
+### activity 1: 
 
   go to office hours ask every things you don't know, do play test check your MG is worked. table 5
 
-#### activity 2:
+### activity 2:
 
   Q1: 10
 
@@ -23,7 +23,7 @@
 
   Q8: _playerTransform instead of Transform 
 
-#### activity 3:
+### activity 3:
 
   [Week 1 table 5 activity 3](https://docs.google.com/document/d/15_HFzD7qHn72CA-2sku_BtfdMzhq6NBtRONPqSFgEHI/edit?tab=t.0)
 
