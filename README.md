@@ -25,7 +25,7 @@
 
 #### activity 3:
 
-  [https://docs.google.com/document/d/15_HFzD7qHn72CA-2sku_BtfdMzhq6NBtRONPqSFgEHI/edit?tab=t.0](URL)
+  [Week 1 table 5 activity 3](https://docs.google.com/document/d/15_HFzD7qHn72CA-2sku_BtfdMzhq6NBtRONPqSFgEHI/edit?tab=t.0)
 
 
 
