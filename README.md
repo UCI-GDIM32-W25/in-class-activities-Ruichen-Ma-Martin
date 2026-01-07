@@ -1,5 +1,5 @@
 # GDIM32 In Class Activities
-## Instructions
+
 ## week 1
 ### activity 1: 
 
