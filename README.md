@@ -34,7 +34,7 @@
 
 MG2 Break down picture
 
-
+<img width="1679" height="1196" alt="MG2 break down" src="https://github.com/user-attachments/assets/f5d994f6-ab4a-4149-bed2-838cadf790bd" />
 
 ### activity 2:
 
