@@ -29,5 +29,14 @@
 
 
 
+## week 2
+### activity 1:
+
+MG2 Break down picture
+
+
+
+### activity 2:
+
 
 
