@@ -38,5 +38,6 @@ MG2 Break down picture
 
 ### activity 2:
 
+[ week 2 activity 2 work on MG2](https://github.com/UCI-GDIM32-W25/mg2-Ruichen-Ma-Martin/commit/418a3006e89186c2d052b6f361ba1d051923fa16)
 
 
