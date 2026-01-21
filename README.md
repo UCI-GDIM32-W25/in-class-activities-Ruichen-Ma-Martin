@@ -51,4 +51,6 @@ ruichen ma
 
 MG3 Break down picture
 
+<img width="1681" height="1178" alt="In class W3" src="https://github.com/user-attachments/assets/345f80d3-aaaa-4760-b98e-8112e7e0ee86" />
+
 
