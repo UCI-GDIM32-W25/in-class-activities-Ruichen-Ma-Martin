@@ -54,3 +54,25 @@ MG3 Break down picture
 <img width="1681" height="1178" alt="In class W3" src="https://github.com/user-attachments/assets/345f80d3-aaaa-4760-b98e-8112e7e0ee86" />
 
 
+## week 4
+### activity 0:
+
+chengxi jiang
+
+ruichen ma
+
+### activity 1:
+
+I think if multipe Locator object in the scene, they will destroy utill only on Locator Object exit in the scene. because in Awake() it will check if there are some Instance exit but it is this it will destroy it.
+
+### activity 2:
+
+MG4 break down picture
+
+
+### activity 3:
+
+[week 3 activity 3 work on MG4]()
+
+My work:
+
