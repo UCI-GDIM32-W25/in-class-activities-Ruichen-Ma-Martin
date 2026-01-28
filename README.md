@@ -69,10 +69,11 @@ I think if multipe Locator object in the scene, they will destroy utill only on 
 
 MG4 break down picture
 
+![MG4 break down](https://github.com/user-attachments/assets/efedae87-3dca-43ac-85f5-3c394dfce063)
 
 ### activity 3:
 
-[week 3 activity 3 work on MG4]()
+[week 4 activity 3 work on MG4]()
 
 My work:
 
