@@ -73,7 +73,7 @@ MG4 break down picture
 
 ### activity 3:
 
-[week 4 activity 3 work on MG4]()
+[week 4 activity 3 work on MG4](https://github.com/Ruichen-Ma-Martin/HW4/commit/1f821b2465d9edb8884eaf921749cc820511dd79)
 
-My work:
+My work: I create new project. add bird and pip sprite sheet. build GameObject of bird, ground and pip. write script of bird jump
 
