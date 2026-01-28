@@ -11,6 +11,11 @@ public class W4Seagull : MonoBehaviour
     // add a new method here
     // use the Locator to find the Pigeon
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
+    private void Start()
+    {
+        W4Pigeon pigeon = Locator.Instance.player;
+        pigeon.Cooing += HandlePigeonCoo;
+    }
 
 
 
