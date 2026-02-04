@@ -42,5 +42,5 @@ public class PlayerW5Demo1 : MonoBehaviour
 //      from the Player GAMEOBJECT?
 
 public class InventoryItem {
-    public string itemName;
+    [SerializeField] public string itemName;
 }

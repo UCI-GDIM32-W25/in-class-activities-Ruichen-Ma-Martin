@@ -75,5 +75,22 @@ MG4 break down picture
 
 [week 4 activity 3 work on MG4](https://github.com/Ruichen-Ma-Martin/HW4/commit/1f821b2465d9edb8884eaf921749cc820511dd79)
 
+## week 5
+### activity 1:
+
+I think the structure of the interface and abstract is good and useful. But I think those mehtod can make a basic coding in the parent class if I build a same project.
+
+### activity 2:
+
+The class ItemW5Demo2 is the Model, it make a base Model of Item can generate different Item. EnemyStats is also Model for enemy
+
+The class PlayerW5Demo2 is the Control which control player move and open Inventory. The class EnemyW5Demo2 is the Control of enemy
+
+The class InventoryUI and DialogueBubble is the view which can be see by player.
+
+### activity 3:
+
+
+
 My work: I create new project. add bird and pip sprite sheet. build GameObject of bird, ground and pip. write script of bird jump
 
