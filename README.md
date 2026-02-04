@@ -54,6 +54,7 @@ MG3 Break down picture
 <img width="1681" height="1178" alt="In class W3" src="https://github.com/user-attachments/assets/345f80d3-aaaa-4760-b98e-8112e7e0ee86" />
 
 
+
 ## week 4
 ### activity 0:
 
@@ -75,6 +76,10 @@ MG4 break down picture
 
 [week 4 activity 3 work on MG4](https://github.com/Ruichen-Ma-Martin/HW4/commit/1f821b2465d9edb8884eaf921749cc820511dd79)
 
+My work: I create new project. add bird and pip sprite sheet. build GameObject of bird, ground and pip. write script of bird jump
+
+
+
 ## week 5
 ### activity 1:
 
@@ -90,7 +95,33 @@ The class InventoryUI and DialogueBubble is the view which can be see by player.
 
 ### activity 3:
 
+#### Scenario 1
 
 
-My work: I create new project. add bird and pip sprite sheet. build GameObject of bird, ground and pip. write script of bird jump
+
+#### Scenario 2
+
+
+
+#### Scenario 3
+
+View:InventoryIU, DialogueUI, animation, SFX.
+
+Control:Player NPC Object(plant, stone)
+
+Model:Items, NPC, Object (ScriptableObject)
+
+Singleton: GameController (sent event)
+
+### activity 4:
+
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
+
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1xih16oloKwzPrgx0m7rAdHD8XQO2XJP5otpn2PSakoM/edit?tab=t.0#heading=h.y4j3q551ojs1)
+
+
+
+
+
+
 
