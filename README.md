@@ -97,11 +97,19 @@ The class InventoryUI and DialogueBubble is the view which can be see by player.
 
 #### Scenario 1
 
+view: UI of point
 
+Control:player to control the when player touch the button they will get point
+
+Model: use ScriptableObject to make model of different button
 
 #### Scenario 2
 
+View:UI, VFX, SFX
 
+Control:player for shooting
+
+Model:use scriptableObject to make model of different gun 
 
 #### Scenario 3
 
