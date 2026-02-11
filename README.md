@@ -127,6 +127,17 @@ Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1xih16oloKwzPrgx0m7rAdHD8XQO2XJP5otpn2PSakoM/edit?tab=t.0#heading=h.y4j3q551ojs1)
 
+## week 6
+### activity 1
+
+I think I can use Gizoms to check player shooting range and enemys moving direction. Also the Breakpoint is common way for debug in game. When I work on mini game, if there are some bug when I run the game in unity. I have to check which line of code have problem and run the logic of code line by line in my mind. But this Breakpoint can help me run the code in the Visual Studio. 
+
+### activity 2
+
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
+
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1xih16oloKwzPrgx0m7rAdHD8XQO2XJP5otpn2PSakoM/edit?tab=t.0#heading=h.y4j3q551ojs1)
+
 
 
 
