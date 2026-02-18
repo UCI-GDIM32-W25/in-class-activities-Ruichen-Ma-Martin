@@ -138,6 +138,29 @@ Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1xih16oloKwzPrgx0m7rAdHD8XQO2XJP5otpn2PSakoM/edit?tab=t.0#heading=h.y4j3q551ojs1)
 
+## week 7
+### activity 1
+
+Raycast can check things it hit and out hitinfo
+
+### activity 2
+
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
+
+### activity 3
+
+Break down image [Final Project Break down]()
+
+### activity 4
+
+assign initial task[Final project task chart](https://trello.com/b/CdYH9Ffo/gdim-32-final-project-list)
+
+### activity 5
+
+[work on check-in in class]()
+
+our work:
+
 
 
 
