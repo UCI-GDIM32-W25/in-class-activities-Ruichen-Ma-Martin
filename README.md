@@ -161,9 +161,9 @@ assign initial task[Final project task chart](https://trello.com/b/CdYH9Ffo/gdim
 
 ### activity 5
 
-[work on check-in in class]()
+[work on check-in in class](https://github.com/EW1028/GDIM32-Final/commit/dbd40649d14edf5a8f213736e1b8f153c1c65fd3)
 
-our work:
+our work: build 3D GameObject of player and Ground/ player script of move
 
 
 
