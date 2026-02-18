@@ -149,7 +149,8 @@ Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
 ### activity 3
 
-Break down image [Final Project Break down]()
+Break down image [Final Project Break down](https://github.com/user-attachments/assets/deee2e19-4fbe-483b-8e5a-5ace0aab7a7b)
+
 
 ### activity 4
 
