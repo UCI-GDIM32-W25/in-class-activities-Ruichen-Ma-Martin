@@ -165,6 +165,31 @@ assign initial task[Final project task chart](https://trello.com/b/CdYH9Ffo/gdim
 
 our work: build 3D GameObject of player and Ground/ player script of move
 
+## Week 8
+### activity 1
+
+I learn how to use game asset of Rendering pineline and check wheather it can work 
+
+### activity 2
+
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
+
+### activity 3
+
+playtest from Team: Froggiest Frog
+
+The movement is a little bit slow, need to follow what player moves. When player is moving the gun should move as the player moves. Clear on the final target or goal. Add a crosshair to aim the target.
+
+### activity 4
+
+I will try to finish the feature gameplay part of The player can click on an item to interact with it
+
+
+### activity 5
+
+[work on check-in in class](https://github.com/EW1028/GDIM32-Final/commit/7fbb110a2ebc73a9f6710f24c0cf68eee5d254c4)
+
+our work: finish weapon shooting and UI of target of shooting.
 
 
 
