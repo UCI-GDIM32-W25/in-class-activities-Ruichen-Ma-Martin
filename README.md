@@ -191,6 +191,34 @@ I will try to finish the feature gameplay part of The player can click on an ite
 
 our work: finish weapon shooting and UI of target of shooting.
 
+## Week 9
+### activity 1
+
+learn how code work in the demo 2 
+
+### activity 2
+
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
+
+### activity 3
+
+During others testing, other players said our game’s movement has improved a lot compared with the last version. They suggested we adjust the reload cooldown, as they think the current reload time is too long and feels clunky. They also pointed out that the pistol having 100 bullets in our test build is a bit unreasonable. In addition, we should add NPC dialogue to guide new players, since some players who are new to FPS games tried to shoot with the Space key instead of the left mouse button. We also need to optimize the terrain, because the current map looks a bit plain.
+
+We think our progress is still better than expected. Next, we will adjust the reload cooldown, balance the ammo amount, add player guidance through NPC dialogue, optimize the terrain and decorations, improve some code, add models for enemies and NPCs, and add more interactive elements in the level.
+
+### activity 4
+
+We finished improving the shooting animations for game characters last week. Players can now shoot and get hit feedback. We also added BGM and basic sound effects, such as shooting and reloading sounds, so the game has basic interactions. We improved the map as well, adding terrain and trees. Finally, we wrote code for NPCs but haven’t added them to the game yet.
+
+We think our progress is better than expected. We still need to optimize the terrain and decorations, improve some code, and add NPC dialogue scripts to the game. We also plan to add models for enemies and NPCs, and include more interactive elements in the level.
+
+### activity 5
+
+[work on check-in in class](https://github.com/EW1028/GDIM32-Final/commit/52f57c003f7c352c46beaba0edbd86d3d7ea94e1)
+
+our work debug the shooting logic and enemy logic
+
+
 
 
 
