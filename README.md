@@ -218,8 +218,23 @@ We think our progress is better than expected. We still need to optimize the ter
 
 our work debug the shooting logic and enemy logic
 
+## week 10
+### activity 1
 
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
+### activity 2
+
+### activity 3
+
+right i still need a quest system and option system in diaglogue/ Also I need a jump of 
+We so far make the environment, the player now can walk to a NPC and talk to the NPC to interact. There are two targets that player can shoot them, after the HP(Lifes) are all gone they will automatically destory gameobject. We want to make the site better wiht move details add in, and improve more playing expericences. Almost done with this project but still have stuffs to do.
+
+### activity 4
+
+[work on check-in in class](https://github.com/EW1028/GDIM32-Final/commit/2ce587bd04f9346d63c9ff191d004639a841d8e7)
+
+I work on Build dialogue system and option. 
 
 
 
