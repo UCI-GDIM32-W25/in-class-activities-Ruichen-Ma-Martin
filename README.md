@@ -225,6 +225,9 @@ Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
 ### activity 2
 
+This game still need add option system. Npc can make a dialogue but playtester cannot make option.
+This game still need quest system.
+
 ### activity 3
 
 right i still need a quest system and option system in diaglogue/ Also I need a jump of 
